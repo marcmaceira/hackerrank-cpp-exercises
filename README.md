@@ -1,1 +1,1 @@
-# HackerRank-C-Exercises
+# HackerRank C++ Exercises
